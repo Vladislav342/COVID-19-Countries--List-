@@ -1,0 +1,12 @@
+.search{
+	right: -50%;
+	width: 45%!important;
+}
+
+.btn{
+	background-color: #D5F3FE!important;
+}
+
+.btn:hover{
+	background-color: #66D3FA!important;
+}
